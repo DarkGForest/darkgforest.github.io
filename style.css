@@ -48,6 +48,11 @@ h2 {
     font-family: Arial;
 }
 
+h2 a {
+    color: rgb(100, 255, 255);
+    font-family: Arial;
+}
+
 h3 {
     color: white;
     font-family: Arial;
