@@ -1,4 +1,4 @@
-<img src="https://darkgforest.github.io/assets/Logo_2.png" style="width:100px;height:100px;">
+<img src="https://darkgforest.github.io/assets/Logo_2.jpg" style="width:100px;height:100px;">
 <h1 style="font-family:consolas;font-size:50px;">DarkGreenForest- (Studios)<br></h1>
 <p style="font-family:consolas;">
   DarkGreenForest- (Studios) is a group of friends that make music, animations, games, <br>
