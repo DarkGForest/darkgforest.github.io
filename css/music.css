@@ -1,0 +1,109 @@
+body {
+    background: black;
+}
+
+
+
+#m1 {
+    background: url("https://i9.ytimg.com/vi/KvOD4yJmF8U/mqdefault.jpg?v=636e76db&sqp=CNCy5qEG&rs=AOn4CLBBVun3PQ2XgSzkx6B9LD_DK9ShQg");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m1:hover {
+    background-size: 100% 100%;
+}
+
+#m2 {
+    background: url("https://i9.ytimg.com/vi_webp/-0jTkDbkpIQ/mqdefault.webp?v=635d2e0d&sqp=CNCy5qEG&rs=AOn4CLACcgeHLafHwm2Gcez2GPRlEp7rjQ");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m2:hover {
+    background-size: 100% 100%;
+}
+
+#m3 {
+    background: url("https://i9.ytimg.com/vi/S0rAXmHLHmk/mqdefault.jpg?v=635d2fa7&sqp=CNCy5qEG&rs=AOn4CLCcIZ76GcwNGKBBcvkBh5MvE_RZTA");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m3:hover {
+    background-size: 100% 100%;
+}
+
+#m4 {
+    background: url("https://i9.ytimg.com/vi_webp/Xq6Y6npsGp8/mqdefault.webp?v=635d3192&sqp=CPy05qEG&rs=AOn4CLDm0fMTNmYpKdInJ6E7yPNLnkrzzA");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m4:hover {
+    background-size: 100% 100%;
+}
+
+#m5 {
+    background: url("https://i9.ytimg.com/vi/Z3WtbZYbVPQ/mqdefault.jpg?v=63ed0ce6&sqp=CPy05qEG&rs=AOn4CLDbCqzu1OvhuzvV5nTbZaQk8qja5Q");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m5:hover {
+    background-size: 100% 100%;
+}
+
+#m6 {
+    background: url("https://i9.ytimg.com/vi_webp/PN0N7dY8N0w/mqdefault.webp?v=63f7e9b5&sqp=CPy05qEG&rs=AOn4CLC-EO3eOdHSbvKsNc3HRsriU_dfbw");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m6:hover {
+    background-size: 100% 100%;
+}
+
+#m7 {
+    background: url("https://i9.ytimg.com/vi_webp/2_WOGhfJyso/mqdefault.webp?v=63f7e99e&sqp=CPy05qEG&rs=AOn4CLD0z4sIFetzIcIKbkxCO1M5whYo7A");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m7:hover {
+    background-size: 100% 100%;
+}
+
+#m8 {
+    background: url("https://i9.ytimg.com/vi_webp/irZ0WwPuixs/mqdefault.webp?v=6435f073&sqp=CNTK8aEG&rs=AOn4CLDlmy5bT3M0PPenuhu7hcTunQGtTw");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+    text-align: center;
+}
+
+#m8:hover {
+    background-size: 100% 100%;
+}

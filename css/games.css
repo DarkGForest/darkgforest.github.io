@@ -1,0 +1,23 @@
+#g1 {
+    background: url("https://darkgforest.github.io/assets/Project_1.png");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+}
+
+#g1:hover {
+    background-size: 100% 100%;
+}
+
+#g2 {
+    background: url("https://darkgforest.github.io/assets/Project_2.png");
+    background-clip: 100%;
+    background-position: center;
+    background-size: 150% 150%;
+    transition: background-size 500ms;
+}
+
+#g2:hover {
+    background-size: 100% 100%;
+}
