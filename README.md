@@ -5,4 +5,4 @@
   and whatever else we want to make in our free time when we are bored out of our mind...<br><br>
   More info is contained in the website.<br><br>
 </p>
-<h3 style="font-family:consolas;">Coded by: DarkGreenForest-</h3>
+<h3 style="font-family:consolas;">Coded by: <a style="color:white;" href="https://youtube.com/@darkgreenforest-">DarkGreenForest-</a></h3>
