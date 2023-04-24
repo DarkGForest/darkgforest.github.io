@@ -2,7 +2,7 @@ var games = document.getElementById("games");
 var nog = 2;
 
 var utilities = document.getElementById("utilities");
-var nou = 1;
+var nou = 2;
 
 var animations = document.getElementById("animations");
 var noa = 2;
