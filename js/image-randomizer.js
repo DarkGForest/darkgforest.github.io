@@ -8,7 +8,7 @@ var animations = document.getElementById("animations");
 var noa = 2;
 
 var music = document.getElementById("music");
-var nom = 8;
+var nom = 9;
 
 changeImage()
 
