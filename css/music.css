@@ -5,7 +5,7 @@ body {
 
 
 #m1 {
-    background: url("https://i9.ytimg.com/vi/KvOD4yJmF8U/mqdefault.jpg?v=636e76db&sqp=CNCy5qEG&rs=AOn4CLBBVun3PQ2XgSzkx6B9LD_DK9ShQg");
+    background: url("/assets/m/campfire.jpg");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -18,7 +18,7 @@ body {
 }
 
 #m2 {
-    background: url("https://i9.ytimg.com/vi_webp/-0jTkDbkpIQ/mqdefault.webp?v=635d2e0d&sqp=CNCy5qEG&rs=AOn4CLACcgeHLafHwm2Gcez2GPRlEp7rjQ");
+    background: url("/assets/m/cave.webp");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -31,7 +31,7 @@ body {
 }
 
 #m3 {
-    background: url("https://i9.ytimg.com/vi/S0rAXmHLHmk/mqdefault.jpg?v=635d2fa7&sqp=CNCy5qEG&rs=AOn4CLCcIZ76GcwNGKBBcvkBh5MvE_RZTA");
+    background: url("/assets/m/peace.jpg");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -44,7 +44,7 @@ body {
 }
 
 #m4 {
-    background: url("https://i9.ytimg.com/vi_webp/Xq6Y6npsGp8/mqdefault.webp?v=635d3192&sqp=CPy05qEG&rs=AOn4CLDm0fMTNmYpKdInJ6E7yPNLnkrzzA");
+    background: url("/assets/m/galaxy.webp");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -57,7 +57,7 @@ body {
 }
 
 #m5 {
-    background: url("https://i9.ytimg.com/vi/Z3WtbZYbVPQ/mqdefault.jpg?v=63ed0ce6&sqp=CPy05qEG&rs=AOn4CLDbCqzu1OvhuzvV5nTbZaQk8qja5Q");
+    background: url("/assets/m/overworld.jpg");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -70,7 +70,7 @@ body {
 }
 
 #m6 {
-    background: url("https://i9.ytimg.com/vi_webp/PN0N7dY8N0w/mqdefault.webp?v=63f7e9b5&sqp=CPy05qEG&rs=AOn4CLC-EO3eOdHSbvKsNc3HRsriU_dfbw");
+    background: url("/assets/m/overworld2.webp");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -83,7 +83,7 @@ body {
 }
 
 #m7 {
-    background: url("https://i9.ytimg.com/vi_webp/2_WOGhfJyso/mqdefault.webp?v=63f7e99e&sqp=CPy05qEG&rs=AOn4CLD0z4sIFetzIcIKbkxCO1M5whYo7A");
+    background: url("/assets/m/overworld2chillstep.webp");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -96,7 +96,7 @@ body {
 }
 
 #m8 {
-    background: url("https://i9.ytimg.com/vi_webp/irZ0WwPuixs/mqdefault.webp?v=6435f073&sqp=CNTK8aEG&rs=AOn4CLDlmy5bT3M0PPenuhu7hcTunQGtTw");
+    background: url("/assets/m/trial.webp");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -109,7 +109,7 @@ body {
 }
 
 #m9 {
-    background: url("https://i9.ytimg.com/vi/1m3Fe_-Felk/mqdefault.jpg?v=64617421&sqp=CLTG4qMG&rs=AOn4CLDfjXP2eJ9h_skz4kDadQvm0iiAIg");
+    background: url("/assets/m/adventure.jpg");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
