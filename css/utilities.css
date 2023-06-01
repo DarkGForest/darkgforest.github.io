@@ -1,5 +1,5 @@
 #u1 {
-    background: url("/assets/metronome.png");
+    background: url("/assets/u/metronome.png");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -11,7 +11,7 @@
 }
 
 #u2 {
-    background: url("/assets/2dworldgen.png");
+    background: url("/assets/u/2dworldgen.png");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
