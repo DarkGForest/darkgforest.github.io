@@ -1,5 +1,5 @@
 #g1 {
-    background: url("/assets/asss.png");
+    background: url("/assets/g/asss.png");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
@@ -11,7 +11,7 @@
 }
 
 #g2 {
-    background: url("/assets/pong.png");
+    background: url("/assets/g/pong.png");
     background-clip: 100%;
     background-position: center;
     background-size: 150% 150%;
